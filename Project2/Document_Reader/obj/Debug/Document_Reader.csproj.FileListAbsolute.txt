@@ -1,0 +1,10 @@
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\bin\Debug\Document_Reader.exe.config
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\bin\Debug\Document_Reader.exe
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\bin\Debug\Document_Reader.pdb
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\obj\Debug\Document_Reader.csproj.AssemblyReference.cache
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\obj\Debug\Document_Reader.Form1.resources
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\obj\Debug\Document_Reader.Properties.Resources.resources
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\obj\Debug\Document_Reader.csproj.GenerateResource.cache
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\obj\Debug\Document_Reader.csproj.CoreCompileInputs.cache
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\obj\Debug\Document_Reader.exe
+C:\Users\melek\OneDrive\Masaüstü\c#_projects\Document_Reader\Document_Reader\obj\Debug\Document_Reader.pdb
